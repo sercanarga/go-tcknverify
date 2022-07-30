@@ -3,7 +3,7 @@ Go dilinde KPS servislerini kullanarak kimlik doğrulaması yapar.
 
 ## Kurulum
 
-```bash
+```go
 go get github.com/sercanarga/go-tcknverify
 ```
 
