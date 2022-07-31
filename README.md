@@ -1,5 +1,5 @@
 # go-tcknverify
-Go dilinde KPS servislerini kullanarak kimlik doğrulaması yapar.
+Go dilinde NVİ servislerini kullanarak kimlik doğrulaması yapar.
 
 ## Kurulum
 
